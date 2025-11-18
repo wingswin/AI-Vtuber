@@ -28,3 +28,6 @@ Team D:
 第100天：Docker → YouTube「Docker 入門 2小時」
 第120天：免費 VPS → Oracle Cloud 終身免費層（給你 2台電腦）
 第130天：Cloudflare Tunnel → 官方教學 15分鐘
+
+
+Use "Vroid" --> For create a new vtuber
